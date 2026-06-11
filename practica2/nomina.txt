@@ -1,0 +1,20 @@
+PLANTA|Carlos|34|gerente|12|5|2018|0
+PLANTA|Ana|28|operario|20|11|2021|0
+PLANTA|Roberto|45|supervisor|5|1|2015|0
+PLANTA|Elena|31|operario|15|8|2022|0
+PLANTA|Marcos|52|gerente|30|3|2010|0
+PLANTA|Sofia|25|operario|10|6|2023|0
+PLANTA|Javier|39|supervisor|22|9|2017|0
+PLANTA|Luciana|41|operario|8|12|2014|0
+PLANTA|Ricardinho|29|operario|14|2|2020|0
+PLANTA|Valeria|36|supervisor|19|7|2019|0
+HORA|Diego|22|operario|1|4|2024|25
+HORA|Beatriz|27|operario|15|1|2024|40
+HORA|Fernando|33|supervisor|10|11|2023|15
+HORA|Gabriela|24|operario|5|3|2024|32
+HORA|HUGO|30|operario|20|12|2023|20
+HORA|Jimena|26|operario|12|2|2024|45
+HORA|Luis Miguel|40|gerente|1|5|2023|45
+HORA|Natalia|23|operario|18|4|2024|38
+HORA|Oscar|35|supervisor|25|8|2023|28
+HORA|Paty|29|operario|30|10|2023|50
